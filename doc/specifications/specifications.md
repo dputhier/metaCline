@@ -12,9 +12,13 @@ Plan de tâche à effectuer pour la mise en place de la gestion des données gé
 - Avoir le contenue Nt
 - Table de passage
 - Le pourcentage en %GC (ilôt cpG)
+- Avoir la la position du lieux des sites de régulations
 
-La base de donnée −> centrer sur les eucaryotes uniquement (désire du client)
 Mettre en place la structure 3D du génome (chercher la structure sur PIB) /!\ surtout les paramètres structuraux /!\
 
 
 Exploitation de la source de donnée externe (comparaison entre les données de l'utilisateur et des références (Type de format de préférence ?))
+
+Récuperer les bases de données en spécifiant ce qu'elle peut apporter (recherche lourde), prendre les assemblages des génomes des modèles (ainsi que d'autre espèce, validation avec le client des bases de données) ainsi que spécifier ce que les bases apportent vis-à-vis des caractéristiques et des paramètres étudiées.
+
+L'utilisation des branches seront centrées sur les eucaryotes (préférence du client).
