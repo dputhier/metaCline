@@ -2,8 +2,8 @@
 
 Plan de tâche à effectuer pour la mise en place de la gestion des données génomiques (non clinique), auquel on y ajoutera les critères suivant:
 
-**blod**Structure de gène**blod** :
-**italic** le client devra être capable de récuperer les différents paramètres suivants **italic**
+**Structure de gène** :
+*le client devra être capable de récuperer les différents paramètres suivants*
 - Récupérer des exons
 - Récupérer les SNP (single nucleotid polymorphism)
 - Récupérer les Mutation somatique
