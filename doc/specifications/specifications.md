@@ -33,6 +33,7 @@
 	- Chaque Login/password sera validé et renverra 'Logged' à l'interface ou 'Login/Password incorect'. Au bout de 5 'Login/Password incorect' d'affilé, 'User locked' est envoyé  \\\Lien équipe interface\\\
 		- Le compte est débloqué au bout de 12h
 		- Un chef de groupe peut autoriser le déblocage d'un utilisateur présent dans son groupe avant les 12h.
+		- À partir de 24h après la dernière tentative de mot de passe incorrecte, le compteur incorect est reinitialisé lors d'une nouvelle tentative de connection
 		
 - Un mail de confirmation est envoyé pour confirmer la possession du mail
 
