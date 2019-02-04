@@ -1,0 +1,46 @@
+---
+title: "Projet INLO"
+author: "DIENY, CRISTIANINI, GIRAUD"
+date: "11 octobre 2018"
+output: html_document
+---
+
+#Obtention des informations:
+
+##Choix des critères génétique
+
+C'est à nous de faire la matrice de transition ?
+Combien de donnée avec les critères choisies?
+ * sequence UTR
+ * liste des isoformes par gêne
+ * régulation
+ * contenue nucléotidique (en lettre)
+ * matrice des transitions
+ * richesse en GC
+ * structure 3D 
+ * liste des isoformes
+ * Conservations
+
+## Donnée clinique
+
+ * Séquençage en génome (mutation/variant) et les maladies associés
+ * Variant : polimorphisme/mutation somatique
+ 
+ 
+##Méthode d'obtention
+
+single cell?
+suffisament de données?
+
+# Phylogénie
+
+Choisir l'algorythme pour calculer la distance entre 2 gênes
+
+
+#Tests statistiques
+
+##Test de corélation/Student:
+
+Effectuer un test de corrélation entre les critères choisies. Ont peut aussi effectuer un test de student 
+
+##
