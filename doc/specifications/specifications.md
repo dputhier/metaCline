@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 ##Genomic
 
 Plan de tâche à effectuer pour la mise en place de la gestion des données génomiques (non clinique), auquel on y ajoutera les critères suivant:
@@ -25,45 +30,47 @@ Récuperer les bases de données en spécifiant ce qu'elle peut apporter (recher
 
 L'utilisation des branches seront centrées sur les eucaryotes (préférence du client).
 
-Database:
+  **Database:**
 	
 	*Espèce modèle*
 	
 * Génome Humain **GRCh37** & **GrCh38** (assemblage plus récent) (link  : https://www.ncbi.nlm.nih.gov/genome/guide/human/ ) 
-+ critère apporter:
--	Reference Genome Sequence
--	RefSeq Transcript
--	RefSeq Proteins
--	dbSNP
--	dbVar
--	ClinVar
--	RefSeq Reference Genome Annotation
+    + Critère apporter:
+          -	Reference Genome Sequence
+          -	RefSeq Transcript
+          -	RefSeq Proteins
+          -	dbSNP
+          -	dbVar
+          -	ClinVar
+          -	RefSeq Reference Genome Annotation
 
 * Assemblage *Mus Musculus* **GRCm38** (link  : http://www.ensembl.org/Mus_musculus/Info/Index)
-+ Critère apporter:
--	Régulation
--	Sequence Assemblage
--	Variation (Variant/ phenotypes)
--	Annotation Gene
+    + Critère apporter:
+        -	Régulation
+        -	Sequence Assemblage
+        -	Variation (Variant/ phenotypes)
+        -	Annotation Gene
 
 * Assemblage *Zebrafish* **GRCz11** (link  : http://www.ensembl.org/Danio_rerio/Info/Index)
-+ Critère apporter:
--	Régulation
--	Annotation gène (plus de détail sur le lien)
--	Variation
--	Sequence assemblage
+    + Critère apporter:
+        -	Régulation
+        -	Annotation gène (plus de détail sur le lien)
+        -	Variation
+        -	Sequence assemblage
 
 * Assemblage *C.Elegans* **WBcel235** (link  : http://www.ensembl.org/Caenorhabditis_elegans/Info/Index)
-+ Critère apporter:
--	Assemblage génomique
--	Régulation
--	Gène annotation (plus de détail sur le lien)
--	Variation
+    + Critère apporter:
+        -	Assemblage génomique
+        -	Régulation
+        -	Gène annotation (plus de détail sur le lien)
+        -	Variation
 
 * Assemblage *Drosophila Melanogaster* (link  : https://wiki.flybase.org/wiki/FlyBase:Downloads_Overview)
-+ Critère apporter
-- 	Tous les détails sur le lien wiki de flybase
+    + Critère apporter
+        - Tous les détails sur le lien wiki de flybase
 	
-	*Autre espèce*
+  ***
+
+	*Autre Espèce*
 
 
