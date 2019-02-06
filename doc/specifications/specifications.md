@@ -1,24 +1,37 @@
-# Interface
+# Interface/Visualisation #
 
 ### Cahier des charges ###
 
-## Interface / Visualisation ##
 
 # Connexion #
 
-Lors de l'ouverture du site, l'utilisatuer doit pourvoir choisir de se connecter ‡ son compte ou de s'incrire (creer un compte).
-L'utilisateur doit egalement pouvoir redemander un mot de passe en precisant son adresse email. **bold**A confirmer avec securite**bold**
-Lors de son inscription, on demande ‡ l'utilisateur (les champs non falcultatifs sont obligatoires):
-- un nom
-- un prenom
-- un pseudo (facultatif)
-- un adresse email (institutionnelle)
-- un mot de passe
-- une confirmation de mot de passe
-- un organisme ou une institution de recherche
-- le pays de l'organisme ou de l'institution de recherche.
-Chaque nouvelle inscription doit pouvoir Ítre validee ou refuser par les moderateurs de MetaCline.
-Les moderateurs de MetaCline doit egalement pouvoir ejecter un utilisateur.
+Lors de l'ouverture du site, l'utilisatuer doit pourvoir choisir de se connecter à son compte ou de s'incrire (creer un compte).
+
+## connexion a un compte existant ##
+L'utilisateur doit renseigner dans un premier champs : "email ou pseudo "
+Deuxième champs : "mot de passe"
+Ces deux informations sont envoyées à la sécurité 
+Si accepté connexion et affichage de l'interface suivante (utilisateur)
+Sinon affichage message d'erreur (cf paragraphe Erreurs) + retour a l'interface de connexion
+
+L'utilisateur doit pouvoir redemander un mot de passe en precisant son adresse email. **bold** A confirmer avec sécurité **bold**
+
+##creation de compte ##
+
+Lors de son inscription, on demande à l'utilisateur (les champs non falcultatifs sont obligatoires):
+- un nom : "nom"
+- un prenom: "prenom"
+- un pseudo qui doit etre unique (facultatif)
+- un adresse email (institutionnelle) "seul seront acceptée les email institutionnel les adresses gmail, hotmail ect ne seront pas acceptées"
+- un mot de passe: "le mot de passe doit contenir " **bold** A confirmer avec sécurité **bold**
+- une confirmation de mot de passe : "mot de passe"
+- un organisme ou une institution de recherche: "nom de l'organisme/ institution d'affiliation"
+- le pays de l'organisme ou de l'institution de recherche: selection d'un pays parmi la liste autorisée (menu déroulant)
+
+affichage d'une interface " Demande de creation de compte en attente de validation "
+	Chaque nouvelle inscription doit être validee ou refuser par les administrateur de MetaCline.
+	**bold** Prevenir les utilisateurs que leur demande a été ou non validée par mail  SECURITE ? **bold**
+retour a l'interface de connexion 
 
 # Zone de l'utilisateur #
 
