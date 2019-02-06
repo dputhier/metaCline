@@ -32,7 +32,7 @@ L'utilisation des branches seront centrées sur les eucaryotes (préférence du 
 
   **Database:**
 	
-	Espèce modèle
+  Espèce modèle
 	
 * Génome Humain **GRCh37** & **GrCh38** (assemblage plus récent) (link  : https://www.ncbi.nlm.nih.gov/genome/guide/human/ ) 
     + Critère apporter:
