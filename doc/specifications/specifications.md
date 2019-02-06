@@ -87,7 +87,7 @@ a completer
 # Interface Historique # 
 a completer
 
-#Interface recherches
+# Interface recherches #
 a completer
 
 # Interface administrateur #
