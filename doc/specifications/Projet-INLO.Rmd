@@ -48,3 +48,12 @@ Effectuer un test de corrélation entre les critères choisies. Ont peut aussi e
 Mettre en évidence certains critère de façon automatisés + reproductibilité
 Graphiques pertinent -> Lesquels ? 
 
+
+
+###### Questions cahier des charges_stats
+
+1: Série de questions sur les données / entrée avec paramètres réglables et modifiable au loisir de l'utilisateurs ? Au choix
+2: Les graphiques, dans quel mesure, leur pertinence, sont ils indispensables, lesquels sont obligatoires, lesquels faut-il absolument garder ? 
+3: Une p-value de base à 0.05 ou bien faut-il etre en mesure de la modifier (ATTENTION A LA PERTINENCE) 
+4: 
+
