@@ -23,7 +23,7 @@ L'utilisateur doit pouvoir redemander un mot de passe en precisant son adresse e
 
 ##creation de compte ##
 
-Lors de son inscription, on demande à l'utilisateur (les champs non facultatifs sont obligatoires):
+Lors de son inscription, on demande à l'utilisateur (les champs non facultatifs sont obligatoires): #quels sont les champs obligatoirres/facultatifs? à preciser svp
 - un nom : "nom"
 - un prenom: "prenom"
 - un pseudo qui doit etre unique (facultatif)
