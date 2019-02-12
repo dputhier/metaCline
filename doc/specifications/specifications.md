@@ -33,13 +33,13 @@ On se focalisera principalement sur le phylum des eucaryotes (préférence du cl
 	
 * Génome Humain **GRCh37** & **GrCh38** (assemblage plus récent) [URL assemblage humain](https://www.ncbi.nlm.nih.gov/genome/guide/human/)
    + Critères apportés:
-          -	Reference Genome Sequence
-          -	RefSeq Transcript
-          -	RefSeq Proteins
-          -	dbSNP
-          -	dbVar
-          -	ClinVar
-          -	RefSeq Reference Genome Annotation
+		-	 Reference Genome Sequence
+		-	 RefSeq Transcript
+		-	 RefSeq Proteins
+		-	 dbSNP
+		-	 dbVar
+		-	 ClinVar
+		-	 RefSeq Reference Genome Annotation
 
 * Assemblage *Mus Musculus* **GRCm38** [URL assemblage Mus Musculus](http://www.ensembl.org/Mus_musculus/Info/Index)
     + Critères apportés:
