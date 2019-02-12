@@ -29,6 +29,7 @@ Lors de son inscription, on demande à l'utilisateur (les champs non facultatifs
 - un pseudo qui doit etre unique (facultatif)
 - un adresse email (institutionnelle) "seul seront acceptée les email institutionnel les adresses gmail, hotmail ect ne seront pas acceptées"
 - un mot de passe: "le mot de passe doit contenir " **A confirmer avec sécurité**
+#Selon sécurité: Un password possède minimum 8 caractères dont 1 chiffre, une minuscule et une majuscule
 - une confirmation de mot de passe : "mot de passe"
 - un organisme ou une institution de recherche: "nom de l'organisme/ institution d'affiliation"
 - le pays de l'organisme ou de l'institution de recherche: selection d'un pays parmi la liste autorisée (menu déroulant)
