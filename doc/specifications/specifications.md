@@ -58,16 +58,16 @@ Lorsque l'utilisateur clique sur le bouton loupe/search situé en haut a gauche 
 ## zone Historique ## 
 Sous la Zone recherche est presente une zone historique sous forme d'une colone qui permet a l'utilisateur de voir immédiatement les 5 dernières recherches /modifications effectuée. 
 Cela permet un acces rapide au resultat en cliquant sur la recherche/ modification d'intérêt. 
-En bas de cette colonne ce trouve un bouton "voir plus" qui renvoie l'utilisateur une l'interface historique #l'historique garde en mémoire toutes les recherches depuis la cration du compte? et il possible de le supprimer?
+En bas de cette colonne ce trouve un bouton "voir plus" qui renvoie l'utilisateur une l'interface historique #l'historique garde en mémoire toutes les recherches depuis la creation du compte? et il possible de le supprimer?
 
 ## zone groupe activity ##
 La moitié de l'interface restante est dédiée a l'affichage des modification recentes apportées sur les différents groupes (10 au total tout groupe confondu) au quel l'utilisateur appartient. 
 Cliquer sur les modification renvoie directement l'utilisateur dans l'interface groupe et niveau de la dite modification. 
 cliquer sur le titre de cette zone "groupe activity" renvoie l'utilisateur sur une interface qui affiche toute l'actualité des groupes
 
-## zone document personel ##
-l'autre moitié restante est dédiée à l'affichage des documents stocké personnellement sur le serveur et l'import / export de documents.
-En cliquant sur le titre "documents personnels" renvoie l'utilisateur renvoie sur une interface documents personnels
+## zone document personnel ##
+l'autre moitié restante est dédiée à l'affichage des documents stockés personnellement sur le serveur et l'import / export de documents.
+En cliquant sur le titre "documents personnels" renvoie l'utilisateur renvoie sur une interface documents personnels #Attention phrase incompréhensible
 
 affichage d'un champs Import : " déposer un sélectionner un fichier au format **A confirmer avec l'équipe en charge des analyse/ base de données**
 permet de déposer glisser un fichier a importer dans la zone documents personnels ou de sélectionner le fichier sur la machine par un menu deroulant/ finder. 
