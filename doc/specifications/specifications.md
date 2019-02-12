@@ -86,7 +86,8 @@ si l'utilisateur sélectionne oui suppression definitive du document puis retour
 a completer
 
 # Interface Historique # 
-a completer
+Affiche les sites visités par date décroissante.
+Il y a un bouton pour effacé l'histoique.
 
 # Interface recherches #
 a completer
