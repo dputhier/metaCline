@@ -87,11 +87,10 @@ a completer
 
 # Interface Historique # 
 Affiche les sites visités par date décroissante.
-Il y a un bouton pour effacé l'histoique.
+Il y a un bouton pour effacé l'historique.
 
 # Interface recherches #
 a completer
-
 # Interface administrateur #
 
 L'administrateur est un utilisateur qui dispose des droits du groupe de travail qu'il a cree.
