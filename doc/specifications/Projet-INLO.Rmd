@@ -4,59 +4,45 @@ author: "DIENY, CRISTIANINI, GIRAUD"
 date: "11 octobre 2018"
 output: html_document
 ---
+[comment]: # It could be intersting to have a couple of lines at first talking about what's your main objectif, and try to make complete comrehensible and clear phrases rather than enumarating vague terms without a definite context. 
 
-# Obtention des informations:
+#Obtention des informations:
 
-## Choix des critères génétique
+##Choix des critères génétique
 
-C'est à nous de faire la matrice de transition ? (à priori non)
+C'est à nous de faire la matrice de transition ?
 Combien de donnée avec les critères choisies?
  * sequence UTR
  * liste des isoformes par gêne
  * régulation
  * contenue nucléotidique (en lettre)
- * matrice des transitions (ex: proba quand on a un A d’avoir ensuite un T)
+ * matrice des transitions
  * richesse en GC
  * structure 3D 
  * liste des isoformes
  * Conservations
- * Elements et régions régulatrices
- * Séquences codantes
- * Longueur en exon
- * Distance entre deux gènes
-
---> Il faudrait faire une "réunion" avec les génomisciens pour la pertinence des critères et leur priorités
---> Etudier les conservations des gènes à travers les espèces (organismes eucaryotes en général)
---> Notion d'orthologie
 
 ## Donnée clinique
 
- * Séquençage génome humain (mutation/variant) et maladies associés (Dossier médical)
+ * Séquençage en génome (mutation/variant) et les maladies associés
  * Variant : polimorphisme/mutation somatique
  
  
-## Méthode d'obtention
+##Méthode d'obtention
 
 single cell?
-à priori oui et non, il va falloir faire un choix, car :
- - si optention avec singlecell: moins de données (focéments car récent) mais très bon pour du deep learning
- - Si optention sans single cell: beaucoup plus dee données mais moins précise: il serais préférable de faire un modele linéiaire généralisé. Au quel cas, pour construire le modèle:
- - Quel sensibilité/spécificité ?
-      
---> Lidéal est de prendre toute les données (single cell ou non) et de faire un modele, on oublie le deep learning, sauf si beaucoup de donnée en singlecell (au moins 10 000 vu tout les critres)
-
+suffisament de données?
 
 # Phylogénie
 
 Choisir l'algorythme pour calculer la distance entre 2 gênes
 
 
-# Tests statistiques
+#Tests statistiques
 
-## Test de corélation/Student:
+##Test de corélation/Student:
 
 Effectuer un test de corrélation entre les critères choisies. Ont peut aussi effectuer un test de student 
-Test de Ficher
 
 #Pipeline d'analyses statistiques ?
 
@@ -70,7 +56,5 @@ Graphiques pertinent -> Lesquels ?
 1: Série de questions sur les données / entrée avec paramètres réglables et modifiable au loisir de l'utilisateurs ? Au choix
 2: Les graphiques, dans quel mesure, leur pertinence, sont ils indispensables, lesquels sont obligatoires, lesquels faut-il absolument garder ? 
 3: Une p-value de base à 0.05 ou bien faut-il etre en mesure de la modifier (ATTENTION A LA PERTINENCE) 
-4: Séquences protéiques?
-5: Doit on dresser un arbre?
+4: 
 
-(Blast à la volée ou a l’insertion ?)
