@@ -1,41 +1,37 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 ##Genomic
 
-Plan de tâche à effectuer pour la mise en place de la gestion des données génomiques (non clinique), auquel on y ajoutera les critères suivant:
+Plan des tâches à effectuer pour la mise en place de la gestion des données génomiques (non clinique), auxquelles on y ajoutera les critères suivant:
 
-**Structure de gène** :
+**Structures des gènes** :
 
-*le client devra être capable de récuperer les différents paramètres suivants*
+*Le client devra être capable de récuperer les différents paramètres suivants*
 
 - Récupérer des exons
 - Récupérer les SNP (single nucleotid polymorphism)
-- Récupérer les Mutation somatique
-- Récupérer les Mutation les plus rares (types cancéreuses) à partir de la base donnée COSMIC (regroupe tous les types de mutant/variant)
-- Identifier les sites de régulations
-- Avoir le contenue Nt
+- Récupérer les mutations somatiques
+- Récupérer les mutations les plus rares (types cancéreuses) à partir de la base donnée COSMIC (regroupe tous les types de mutants/variants)
+- Identifier les sites de régulation
+- Avoir le contenu Nt
 - Table de passage
-- Le pourcentage en %GC (ilôt cpG)
-- Avoir la la position du lieux des sites de régulations
+- Le pourcentage en %GC (ilôts CpG)
+- Avoir la position du lieu des sites de régulation
 
 Mettre en place la structure 3D du génome (chercher la structure sur PDB) /!\ surtout les paramètres structuraux /!\
 
 
-Exploitation de la source de donnée externe (comparaison entre les données de l'utilisateur et des références (Type de format de préférence ?))
+Exploitation de la source de données externes (comparaison entre les données de l'utilisateur et des références)
 
-Récuperer les bases de données en spécifiant ce qu'elle peut apporter (recherche lourde), prendre les assemblages des génomes des modèles (ainsi que d'autre espèce, validation avec le client des bases de données) ainsi que spécifier ce que les bases apportent vis-à-vis des caractéristiques et des paramètres étudiées.
+Récuperer les bases de données en spécifiant ce qu'elles peuvent apporter (recherche lourde), prendre les assemblages des génomes des modèles (ainsi que d'autres espèces, validation avec le client des bases de données) ainsi que spécifier ce que les bases apportent vis-à-vis des caractéristiques et des paramètres étudiées.
 
-L'utilisation des branches seront centrées sur les eucaryotes (préférence du client).
+On se focalisera principalement sur le phylum des eucaryotes (préférence du client).
 
   **Database:**
 	
-  Espèce modèle
+  Organismes modèles
 	
-* Génome Humain **GRCh37** & **GrCh38** (assemblage plus récent) (link  : https://www.ncbi.nlm.nih.gov/genome/guide/human/ ) 
-    + Critère apporter:
+* Génome Humain **GRCh37** & **GrCh38** (assemblage plus récent) [URL assemblage humain](https://www.ncbi.nlm.nih.gov/genome/guide/human/)
+    + Critères apportés:
           -	Reference Genome Sequence
           -	RefSeq Transcript
           -	RefSeq Proteins
@@ -44,33 +40,36 @@ L'utilisation des branches seront centrées sur les eucaryotes (préférence du 
           -	ClinVar
           -	RefSeq Reference Genome Annotation
 
-* Assemblage *Mus Musculus* **GRCm38** (link  : http://www.ensembl.org/Mus_musculus/Info/Index)
-    + Critère apporter:
+* Assemblage *Mus Musculus* **GRCm38** [URL assemblage Mus Musculus](http://www.ensembl.org/Mus_musculus/Info/Index)
+    + Critères apportés:
         -	Régulation
         -	Sequence Assemblage
         -	Variation (Variant/ phenotypes)
         -	Annotation Gene
 
-* Assemblage *Zebrafish* **GRCz11** (link  : http://www.ensembl.org/Danio_rerio/Info/Index)
-    + Critère apporter:
+* Assemblage *Zebrafish* **GRCz11** [URL assemblage Zebreafish/Danio rerio](http://www.ensembl.org/Danio_rerio/Info/Index)
+    + Critères apportés:
         -	Régulation
         -	Annotation gène (plus de détail sur le lien)
         -	Variation
         -	Sequence assemblage
 
-* Assemblage *C.Elegans* **WBcel235** (link  : http://www.ensembl.org/Caenorhabditis_elegans/Info/Index)
-    + Critère apporter:
+* Assemblage *C.Elegans* **WBcel235** [URL assemblage C elegans](http://www.ensembl.org/Caenorhabditis_elegans/Info/Index)
+    + Critères apportés:
         -	Assemblage génomique
         -	Régulation
         -	Gène annotation (plus de détail sur le lien)
         -	Variation
 
-* Assemblage *Drosophila Melanogaster* (link  : https://wiki.flybase.org/wiki/FlyBase:Downloads_Overview)
-    + Critère apporter
+* Assemblage *Drosophila Melanogaster*  [URL assemblage Drosophila Melanogaster](https://wiki.flybase.org/wiki/FlyBase:Downloads_Overview)
+    + Critères apportés
         - Tous les détails sur le lien wiki de flybase
+
+* Assemblage *Xenopus laevis* [URL assemblage Xenopus laevis](http://www.xenbase.org/entry/doNewsRead.do?id=136)
+
 	
   ****
 
-    Autre Espèce
+    Autres Espèces
 
 
