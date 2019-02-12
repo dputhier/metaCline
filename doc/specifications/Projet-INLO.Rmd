@@ -43,4 +43,8 @@ Choisir l'algorythme pour calculer la distance entre 2 gênes
 
 Effectuer un test de corrélation entre les critères choisies. Ont peut aussi effectuer un test de student 
 
-##
+#Pipeline d'analyses statistiques ?
+
+Mettre en évidence certains critère de façon automatisés + reproductibilité
+Graphiques pertinent -> Lesquels ? 
+
