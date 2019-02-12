@@ -63,14 +63,19 @@ On se focalisera principalement sur le phylum des eucaryotes (préférence du cl
         -	Variation
 
 * Assemblage *Drosophila Melanogaster*  [URL assemblage Drosophila Melanogaster](https://wiki.flybase.org/wiki/FlyBase:Downloads_Overview)
-    + Critères apportés
+    + Critères apportés:
         - Tous les détails sur le lien wiki de flybase
 
 * Assemblage *Xenopus laevis* [URL assemblage Xenopus laevis](http://www.xenbase.org/entry/doNewsRead.do?id=136)
 
+* Assemblage *Canis lupus familiaris* **CanFam3.1 (GCA_000002285.2)** [ URL : Assemblage Canis lupus familiaris ](http://www.ensembl.org/Canis_familiaris/Info/Index)
+	+ Critères apportés:
+		-	Régulation (microarray annotation)
+		-	Variation
+		-	Gène annotation
 	
   ****
 
     Autres Espèces
 
-
+(Besoin de recherche d'investigation plus profonde)
