@@ -12,7 +12,7 @@
 - Un chef de projet peut choisir un utilisateur pour lui succeder
 - Le chef de projet gère son nom groupe et les personnes du groupe
 
-## Administrateurs
+## Administrateurs #l'equipe securite suggere un seul administrateur par groupe cela vous semble correct?
 
 - Les administrateurs ont accès à tout les groupes
 - Les administrateurs peuvent occulter des fichiers
