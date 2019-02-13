@@ -104,7 +104,7 @@ Chacun d'entre eux sont cliquable.
 En haut a droite nous avons toujours la zone profil (cf interface utilisateur)
  
 # Interface recherches #
-a completer
+permet de realiser les test stat definis par l'equipe stat
 
 # Interface administrateur #
 
@@ -116,14 +116,16 @@ L'administrateur doit pouvoir ejecter un utilisateur de son groupe de travail.
 
 # Interface profil #
 
-Sur l'espace profil, l'utilisateur doit pouvoir changer sa photo de profil, son mot de passe et son pseudo.
-L'utilisateur peut choisir de supprimer son compte. Le compte sera supprime apres validation du choix de l'utilisateur.
+Sur l'espace profil, l'utilisateur doit pouvoir changer sa photo de profil.
+Il y a un champs qui permet de modifier son mot de passe 
+Demande une confirmation
+
+L'utilisateur peut cliquer sur supprimer mon compte. Le compte sera supprimé apres validation du choix de l'utilisateur.
+L'utilisateur peut cliquer sur deconnection. Ceela renvoie l'utilisteur sur l'interface de connexion.
 
 # Interface Groupe #
  a completer 
 
 
 # Gestion des donnees #
-
-L'utilisateur doit disposer d'une fenêtre pour effectuer des recherches sur la base de donnée et importer / exporter des documents.
 Le site doit supoprter les documents en fichier txt, fasta, gtf et gff. **Detailler plus tard chaque document**
