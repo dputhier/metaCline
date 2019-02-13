@@ -14,7 +14,7 @@ Plan des tâches à effectuer pour la mise en place de la gestion des données g
 - Récupérer les mutations les plus rares (types cancéreuses) à partir de la base donnée COSMIC (regroupe tous les types de mutants/variants)
 - Identifier les sites de régulation
 - Avoir le contenu Nt
-- Table de passage
+- Table de probabilité de la transition entre nucléotides dans la séquence du génome
 - Le pourcentage en %GC (ilôts CpG)
 - Avoir la position du lieu des sites de régulation
 
@@ -73,7 +73,9 @@ On se focalisera principalement sur le phylum des eucaryotes (préférence du cl
 		-	Régulation (microarray annotation)
 		-	Variation
 		-	Gène annotation
-	
+
+* Autres bases spécifiés pour les vers [URL WormBase](https://wormbase.org/about/userguide#3--10)
+
   ****
 
     Autres Espèces
