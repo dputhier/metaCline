@@ -34,7 +34,7 @@ Lors de son inscription, on demande à l'utilisateur (les champs non facultatifs
 - un organisme ou une institution de recherche: "nom de l'organisme/ institution d'affiliation"
 - le pays de l'organisme ou de l'institution de recherche: selection d'un pays parmi la liste autorisée (menu déroulant)
 
-affichage d'une interface " Demande de creation de compte en attente de validation"
+Affichage d'une interface " Demande de creation de compte en attente de validation"
 
 Chaque nouvelle inscription doit être validee ou refuser par les administrateur de MetaCline.
 **Prevenir les utilisateurs que leur demande a été ou non validée par mail  SECURITE ?**
@@ -57,7 +57,7 @@ Lorsque l'utilisateur clique sur le bouton fleche situé juste a coté de son no
 Lorsque l'utilisateur clique sur le bouton loupe/search situé en haut a gauche de l'interface, il a acces a la page de recherche 
 
 ## zone Historique ## 
-Sous la Zone recherche est presente une zone historique sous forme d'une colone qui permet a l'utilisateur de voir immédiatement les 5 dernières recherches /modifications effectuée. 
+Sous la Zone recherche est presente une zone historique sous forme d'une colonne qui permet a l'utilisateur de voir immédiatement les 5 dernières recherches/modifications effectuée. 
 Cela permet un acces rapide aux resultats en cliquant sur la recherche/ modification d'intérêt. 
 En bas de cette colonne ce trouve un bouton "voir plus" qui renvoie l'utilisateur sur l'interface historique.
 
