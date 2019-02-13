@@ -19,7 +19,7 @@ Si acceptées: connexion et affichage de l'interface suivante (utilisateur).
 
 Sinon: affichage message d'erreur (cf paragraphe Erreurs) + retour a l'interface de connexion.
 
-L'utilisateur doit pouvoir redemander un mot de passe en precisant son adresse email. **A confirmer avec sécurité** # securite precise: Si un utilisateur perd son login ou mot de pases, il peut le recuperer en faisant une requête automatique auprès de l'administration. 
+L'utilisateur doit pouvoir redemander un mot de passe en precisant son adresse email. **A confirmer avec sécurité** # securite precise: Si un utilisateur perd son login ou mot de passe, il peut le recuperer en faisant une requête automatique auprès de l'administration. 
 
 ## creation de compte ##
 
