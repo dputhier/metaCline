@@ -27,7 +27,7 @@ Lors de son inscription, on demande à l'utilisateur (les champs non facultatifs
 - un nom : "nom"
 - un prenom: "prenom"
 - un pseudo qui doit etre unique (facultatif)
-- un adresse email (institutionnelle) "seul seront acceptés les emails institutionnels, les adresses gmail, hotmail ect ne seront pas acceptées" #Merci de preciser pourquoi?
+- un adresse email (institutionnelle) "seul seront acceptés les emails institutionnels, les adresses gmail, hotmail ect ne seront pas acceptées"
 - un mot de passe: "le mot de passe doit contenir " **A confirmer avec sécurité**
 #Selon sécurité: Un password possède minimum 8 caractères dont 1 chiffre, une minuscule et une majuscule
 - une confirmation de mot de passe : "mot de passe"
@@ -66,7 +66,7 @@ cliquer sur le titre de cette zone "groupe activity" renvoie l'utilisateur sur u
 
 ## zone documents personnels ##
 l'autre moitié restante est dédiée à l'affichage des documents stockés personnellement sur le serveur et l'import / export de documents.
-En cliquant sur le titre "documents personnels" renvoie l'utilisateur renvoie sur une interface documents personnels #Attention phrase incompréhensible
+En cliquant sur le titre de la zone "documents personnels" renvoie l'utilisateur renvoie sur l'interface documents personnels 
 
 affichage d'un champs Import : " déposer un sélectionner un fichier au format **A confirmer avec l'équipe en charge des analyse/ base de données** 
 permet de déposer glisser un fichier a importer dans la zone documents personnels ou de sélectionner le fichier sur la machine par un menu deroulant/ finder. 
@@ -89,8 +89,6 @@ Affiche en partie centrale une liste classée de facon chronologique de toutes l
 Quand on clique sur une recherche permet d'acceder aux resultats
 
 En haut a droite nous avons toujours la zone profil (cf interface utilisateur)
-
-
 
 # Interface groupe activity #
 
