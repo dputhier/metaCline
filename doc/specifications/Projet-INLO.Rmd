@@ -74,3 +74,10 @@ Graphiques pertinent -> Lesquels ?
 5: Doit on dresser un arbre?
 
 (Blast à la volée ou a l’insertion ?)
+
+####Conseils :
+
+Caractériser les differents tests, dans quesl circonstances (para/non paramétrique)
+Scatter plot avant corrélation (anscombe quartet)
+Après test anova (ou kruskal wallis) il faut faire un test (post-hoc ?)
+Il faut voir avec les génomiciens les critères ils sont capables de récupérer pour etre capable de faire des stats sur les même choses.
