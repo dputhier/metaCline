@@ -44,7 +44,6 @@ Retour a l'interface de connexion.
 # Interface utilisateur #
 
 ### zone profil ###
-
 L'utilisateur doit pouvoir acceder à son profil complet lors qu'il clique sur son nom(/pseudo) situé en haut a droit de l'interface (cf profil)
 
 Lorsque l'utilisateur clique sur le bouton fleche situé juste a coté de son nom(/pseudo) il a acces a un menu déroulant avec les raccourcis suivant:
@@ -77,20 +76,33 @@ affichage d'un champs Export : " sélectionner un fichier à télécharger"
 
 
 # interface documents personnels #
-affiche la totalité des documents sauvegardés sur le serveur par l'utilisateur. 
+
+affiche la totalité des documents sauvegardés sur le serveur par l'utilisateur.
+
 En cliquant sur le document permet de le modifier (renommer ect),de l'ouvrir, de l'exporter ou le supprimer. #a reformuler
 Lors de la suppression apparait un message : "etes vous sur de vouloir supprimer ce document: Oui  Non"
 si l'utilisateur sélectionne oui suppression definitive du document puis retour a l'interface, si non retour a l'interface documents personnels. 
 
-# Interface groupe activity #
-a completer
-
 # Interface Historique # 
-Affiche les sites visités par date décroissante.
-Il y a un bouton pour effacé l'historique.
 
+Affiche en partie centrale une liste classée de facon chronologique de toutes le recherches, import/export de fichier
+Quand on clique sur une recherche permet d'acceder aux resultats
+
+En haut a droite nous avons toujours la zone profil (cf interface utilisateur)
+
+
+
+# Interface groupe activity #
+
+Affiche en partie centrale un "historique" qui recense tout les changements effectuer dans les différent groupes au quel appartient l'utilisateur.
+Les resultats apparaissent classé de facon chronologique. 
+Chacun d'entre eux sont cliquable. 
+
+En haut a droite nous avons toujours la zone profil (cf interface utilisateur)
+ 
 # Interface recherches #
 a completer
+
 # Interface administrateur #
 
 L'administrateur est un utilisateur qui dispose des droits du groupe de travail qu'il a cree.
@@ -101,8 +113,6 @@ L'administrateur doit pouvoir ejecter un utilisateur de son groupe de travail.
 
 # Interface profil #
 
-L'utilisateur doit pouvoir choisir de se deconnecter.
-Lorsque qu'un l'utilisateur exporte, importe, ou modifie un document sur une zone de travail de groupe, les autres utilisateurs doivent pouvoir voir son nom et son prenom, et sa photo si disponible.
 Sur l'espace profil, l'utilisateur doit pouvoir changer sa photo de profil, son mot de passe et son pseudo.
 L'utilisateur peut choisir de supprimer son compte. Le compte sera supprime apres validation du choix de l'utilisateur.
 
