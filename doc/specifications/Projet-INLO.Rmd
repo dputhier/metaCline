@@ -6,6 +6,12 @@ output: html_document
 ---
 [comment]: # It could be intersting to have a couple of lines at first talking about what's your main objectif, and try to make complete comrehensible and clear phrases rather than enumarating vague terms without a definite context. 
 
+#Description du sujet:
+
+ La partie statistiques consiste à établir le type de test statistique qu'il faut appliqué en fonction des données que l'on utilise (apparié / non-apparié). De plus il faudra déterminer l'algorythme à appliquer pour les relations de phylogénies. De plus il faudra faire attention à la faisabilité des analyses statistiques, tristan le trou d'cul on ne peux pas faire des tests statistiques sur des données qui ne sont pas similaires ou si une partie des données n'est pas présente dans le cluster.
+
+
+
 # Obtention des informations:
 
 ## Choix des critères génétique
@@ -81,3 +87,5 @@ Caractériser les differents tests, dans quesl circonstances (para/non paramétr
 Scatter plot avant corrélation (anscombe quartet)
 Après test anova (ou kruskal wallis) il faut faire un test (post-hoc ?)
 Il faut voir avec les génomiciens les critères ils sont capables de récupérer pour etre capable de faire des stats sur les même choses.
+
+Quel algo pour la phylogénie ? 
