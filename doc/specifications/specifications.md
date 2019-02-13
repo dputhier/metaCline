@@ -87,7 +87,7 @@ si l'utilisateur sélectionne oui suppression definitive du document puis retour
 
 # Interface Historique # 
 
-Affiche en partie centrale une liste classée de facon chronologique de toutes le recherches (dans la limite de l'espace mémoire alouée à cette partie du site), import/export de fichier
+Affiche en partie centrale une liste classée de facon chronologique de toutes le recherches (dans la limite de l'espace mémoire alouée à cette partie du site), import/export de fichier.
 Quand on clique sur une recherche permet d'acceder aux resultats
 
 A gauche se trouve un bouton effacer l'historique : fait apparaitre des cases a cocher devant les elements de l'historique et affiche 2 boutons supprementaires : supprimer les elements selectionnés, et tout selectionner.
@@ -97,7 +97,7 @@ En haut a droite nous avons toujours la zone profil (cf interface utilisateur)
 
 # Interface groupe activity #
 
-Affiche en partie centrale un "historique" qui recense tout les changements effectuer dans les différent groupes au quel appartient l'utilisateur.
+Affiche en partie centrale un "historique" qui recense tout les changements effectuer dans les différents groupes au quel appartient l'utilisateur.
 Les resultats apparaissent classé de facon chronologique. 
 Chacun d'entre eux sont cliquable. 
 
@@ -121,11 +121,11 @@ Il y a un champs qui permet de modifier son mot de passe
 Demande une confirmation
 
 L'utilisateur peut cliquer sur supprimer mon compte. Le compte sera supprimé apres validation du choix de l'utilisateur.
-L'utilisateur peut cliquer sur deconnection. Ceela renvoie l'utilisteur sur l'interface de connexion.
+L'utilisateur peut cliquer sur deconnection. Cela renvoie l'utilisteur sur l'interface de connexion.
 
 # Interface Groupe #
  a completer 
 
 
 # Gestion des donnees #
-Le site doit supoprter les documents en fichier txt, fasta, gtf et gff. **Detailler plus tard chaque document**
+Le site doit supporter les documents en fichier txt, fasta, gtf et gff. **Detailler plus tard chaque document**
