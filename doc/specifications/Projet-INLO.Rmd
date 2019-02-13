@@ -58,3 +58,20 @@ Graphiques pertinent -> Lesquels ?
 3: Une p-value de base à 0.05 ou bien faut-il etre en mesure de la modifier (ATTENTION A LA PERTINENCE) 
 4: 
 
+##Méthode d'obtention
+
+single cell?    
+ - à priori oui et non, il va falloir faire un choix, car :
+      - si optention avec singlecell: moins de données (focéments car récent) mais très bon pour du deep learning
+      - Si optention sans single cell: beaucoup plus dee données mais moins précise: il serais préférable de faire un modele linéiaire généralisé. Au quel cas, pour construire le modèle:
+          - Quel sensibilité/spécificité ?
+      
+    --> Lidéal est de prendre toute les données (single cell ou non) et de faire un modele, on oublie le deep learning, sauf si beaucoup de donnée en singlecelle (au moins 10 000 vu tout les critres)
+
+#Tests statistiques
+
+##Test de corélation/Student:
+
+Effectuer un test de corrélation entre les critères choisies. Ont peut aussi effectuer un test de student 
+
+##
