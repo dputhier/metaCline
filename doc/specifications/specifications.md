@@ -5,7 +5,7 @@
 
 # Connexion #
 
-Lors de l'ouverture du site, l'utilisateur doit pourvoir choisir de se connecter à son compte ou de s'incrire (creer un compte).
+Lors de l'ouverture du site, l'utilisateur doit pourvoir choisir de se connecter à son compte ou de s'inscrire (creer un compte).
 Suivant sur quel bouton il appuie, il est alors envoyé vers deux interfaces différentes.
 
 ## connexion a un compte existant ##
