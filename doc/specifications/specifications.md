@@ -88,12 +88,12 @@ Si l'utilisateur sélectionne oui suppression definitive du document puis retour
 # Interface Historique # 
 
 Affiche en partie centrale une liste classée de facon chronologique de toutes les recherches (dans la limite de l'espace mémoire alouée à cette partie du site), import/export de fichier.
-Quand on clique sur une recherche permet d'acceder aux resultats
+Quand on clique sur une recherche permet d'acceder aux resultats.
 
 A gauche se trouve un bouton effacer l'historique : fait apparaitre des cases a cocher devant les elements de l'historique et affiche 2 boutons supprementaires : supprimer les elements selectionnés, et tout selectionner.
 Apres avoir selectionner les cases à supprimer (ou avoir cliquer sur tout selectionner), l'utilisateur doit cliquer sur supprimer les elements selectionners pour finaliser la suppression. 
 
-En haut a droite nous avons toujours la zone profil (cf interface utilisateur)
+En haut a droite nous avons toujours la zone profil (cf interface utilisateur).
 
 # Interface groupe activity #
 
