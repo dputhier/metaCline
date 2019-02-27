@@ -37,3 +37,11 @@
 		
 - Un mail de confirmation est envoyé pour confirmer la possession du mail
 
+
+Ordonné nos mots clefs exemple groupe doit apparaitre une fois que l'utilisateur, le chef, l'admin.
+
+cryptage de base donnée ( entièrement bdd ) même les admins n'ont pas le droit , flux crypté
+
+sauvegarde de données   (DUMP) rendre le serveur inhopérent pour pouvoir le faire 
+si piraté changement de mot de passe avec mail de réinitialisation.
+
