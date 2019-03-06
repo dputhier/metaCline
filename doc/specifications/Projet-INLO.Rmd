@@ -8,7 +8,7 @@ output: html_document
 
 #Description du sujet:
 
- La partie statistiques consiste à établir le type de test statistique qu'il faut appliqué en fonction des données que l'on utilise (apparié / non-apparié). De plus il faudra déterminer l'algorythme à appliquer pour les relations de phylogénies. De plus il faudra faire attention à la faisabilité des analyses statistiques, tristan le trou d'cul on ne peux pas faire des tests statistiques sur des données qui ne sont pas similaires ou si une partie des données n'est pas présente dans le cluster.
+ La partie statistiques consiste à établir le type de test statistique qu'il faut appliqué en fonction des données que l'on utilise (apparié / non-apparié). De plus il faudra déterminer l'algorythme à appliquer pour les relations de phylogénies. De plus il faudra faire attention à la faisabilité des analyses statistiques, on ne peux pas faire des tests statistiques sur des données qui ne sont pas similaires ou si une partie des données n'est pas présente dans le cluster.
 
 
 
